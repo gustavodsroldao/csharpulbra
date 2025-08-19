@@ -1,4 +1,8 @@
-﻿Console.WriteLine("Digite um número: ");
+﻿// Aula 1
+Console.WriteLine("Hello World");
+
+//// Aula 2
+Console.WriteLine("Digite um número: ");
 double numero1 = Convert.ToDouble(Console.ReadLine());
 
 Console.WriteLine("Digite outro número: ");

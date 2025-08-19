@@ -1,0 +1,15 @@
+c:\Users\Gustavo\Documents\GitHub\csharpulbra\bin\Debug\net9.0\csharpulbra.exe
+c:\Users\Gustavo\Documents\GitHub\csharpulbra\bin\Debug\net9.0\csharpulbra.deps.json
+c:\Users\Gustavo\Documents\GitHub\csharpulbra\bin\Debug\net9.0\csharpulbra.runtimeconfig.json
+c:\Users\Gustavo\Documents\GitHub\csharpulbra\bin\Debug\net9.0\csharpulbra.dll
+c:\Users\Gustavo\Documents\GitHub\csharpulbra\bin\Debug\net9.0\csharpulbra.pdb
+c:\Users\Gustavo\Documents\GitHub\csharpulbra\obj\Debug\net9.0\csharpulbra.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Gustavo\Documents\GitHub\csharpulbra\obj\Debug\net9.0\csharpulbra.AssemblyInfoInputs.cache
+c:\Users\Gustavo\Documents\GitHub\csharpulbra\obj\Debug\net9.0\csharpulbra.AssemblyInfo.cs
+c:\Users\Gustavo\Documents\GitHub\csharpulbra\obj\Debug\net9.0\csharpulbra.csproj.CoreCompileInputs.cache
+c:\Users\Gustavo\Documents\GitHub\csharpulbra\obj\Debug\net9.0\csharpulbra.sourcelink.json
+c:\Users\Gustavo\Documents\GitHub\csharpulbra\obj\Debug\net9.0\csharpulbra.dll
+c:\Users\Gustavo\Documents\GitHub\csharpulbra\obj\Debug\net9.0\refint\csharpulbra.dll
+c:\Users\Gustavo\Documents\GitHub\csharpulbra\obj\Debug\net9.0\csharpulbra.pdb
+c:\Users\Gustavo\Documents\GitHub\csharpulbra\obj\Debug\net9.0\csharpulbra.genruntimeconfig.cache
+c:\Users\Gustavo\Documents\GitHub\csharpulbra\obj\Debug\net9.0\ref\csharpulbra.dll
