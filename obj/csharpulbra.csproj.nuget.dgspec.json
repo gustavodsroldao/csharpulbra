@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Gustavo\\Documents\\GitHub\\csharpulbra\\csharpulbra.csproj": {}
+    "C:\\Users\\Gustavo\\Documents\\GitHub\\csharpulbra\\csharpulbra.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Gustavo\\Documents\\GitHub\\csharpulbra\\csharpulbra.csproj": {
+    "C:\\Users\\Gustavo\\Documents\\GitHub\\csharpulbra\\csharpulbra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Gustavo\\Documents\\GitHub\\csharpulbra\\csharpulbra.csproj",
+        "projectUniqueName": "C:\\Users\\Gustavo\\Documents\\GitHub\\csharpulbra\\csharpulbra.csproj",
         "projectName": "csharpulbra",
-        "projectPath": "c:\\Users\\Gustavo\\Documents\\GitHub\\csharpulbra\\csharpulbra.csproj",
+        "projectPath": "C:\\Users\\Gustavo\\Documents\\GitHub\\csharpulbra\\csharpulbra.csproj",
         "packagesPath": "C:\\Users\\Gustavo\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Gustavo\\Documents\\GitHub\\csharpulbra\\obj\\",
+        "outputPath": "C:\\Users\\Gustavo\\Documents\\GitHub\\csharpulbra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\DevExpress 20.2\\Components\\Offline Packages",

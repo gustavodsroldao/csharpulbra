@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("csharpulbra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6edba3e8e384e58f26d82ae870e1ccb49591e96b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9538d35325ae47171e3e3f131c5191544db98dae")]
 [assembly: System.Reflection.AssemblyProductAttribute("csharpulbra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("csharpulbra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
